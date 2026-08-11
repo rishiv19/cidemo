@@ -2,6 +2,6 @@
   "name": "ci-demo",
   "version": "1.0.0",
   "script": {
-    "test": "node test.js"
+    "test": "test.js"
   }
 }
